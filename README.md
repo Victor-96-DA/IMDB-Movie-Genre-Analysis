@@ -5,6 +5,8 @@ A Python-based exploratory data analysis project investigating movie genre
 trends, financial performance, audience popularity and critical ratings 
 across 55 years of IMDB movie data.
 
+📓 **[View Full Analysis Notebook](Movie_Genre_Data_Analysis.ipynb)**
+
 ## Tools & Libraries
 - Python
 - pandas
