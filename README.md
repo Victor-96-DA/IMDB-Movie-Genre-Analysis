@@ -54,7 +54,8 @@ across 55 years of IMDB movie data.
 - Science Fiction, Adventure and Animation lead in both popularity and commercial returns
 - High critical ratings do not correlate with commercial success; popularity is the stronger driver
 - Average revenue figures are unreliable across all genres due to blockbuster outliers
-- Median revenue across most genres sits between $10M-$50M despite high averages
+- Animation has the highest median revenue of any genre, yet its average is still inflated by outliers, showing that even strong-performing genres aren't immune to this distortion
+- Science Fiction, Documentary and Drama show the widest gap between median and mean, making their averages the least reliable in the dataset
 - Production budget strongly predicts revenue (0.7 correlation) but not profit (0.3)
 
 ## Project Structure
