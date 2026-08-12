@@ -80,3 +80,11 @@ IMDB-Movie-Genre-Analysis/
   of mean values
 - Hit rate analysis added to Q4 to provide proportional comparison 
   beyond raw counts
+
+## Author
+**Victor Olatunji**
+- GitHub: https://github.com/Victor-96-DA?tab=repositories
+- Gmail: reachvictorola@gmail.com
+
+---
+© 2026 Victor Olatunji | Data Analyst | Doha, Qatar
